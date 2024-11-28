@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Pet Adoption Center</string>
+    <string name="grid">Grid</string>
+    <string name="pet_name">Nama Hewan</string>
+    <string-array name="data_name">
+        <item>Anjing</item>
+        <item>Burung</item>
+        <item>Hamster</item>
+        <item>Ikan Hias</item>
+        <item>Kelinci</item>
+        <item>Kucing</item>
+        <item>Kura-kura</item>
+        <item>Landak</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/anjing</item>
+        <item>@drawable/burung</item>
+        <item>@drawable/hamster</item>
+        <item>@drawable/ikan_hias</item>
+        <item>@drawable/kelinci</item>
+        <item>@drawable/kucing</item>
+        <item>@drawable/kura_kura</item>
+        <item>@drawable/landak</item>
+    </integer-array>
+
+    <string-array name="riwayat_adopsi">
+        <item></item>
+    </string-array>
+</resources>
